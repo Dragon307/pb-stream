@@ -1,0 +1,10 @@
+[requires]
+is-msgs/1.1.2@is/stable
+boost/[>=1.65]@conan/stable
+
+[generators]
+cmake
+cmake_find_package
+cmake_paths
+
+[options]
